@@ -69,6 +69,3 @@ Quality of code (cleanup, structure, performance)
 Code readability - code should be clear
 No need for documentation - code should explain itself
 
-
-If something is not clear, please, ask me on telegram @zhamilia_cy
-
